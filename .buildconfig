@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/stann/.cache/gnome-builder/install/quickCreditAPI/host
+app-id=
+postbuild=
+prebuild=
+default=true
