@@ -1,0 +1,34 @@
+{
+  "name": "quick-credit-api",
+  "version": "1.0.0",
+  "description": "quick credit API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanozzy/quickCreditAPI.git"
+  },
+  "keywords": [
+    "\"quick",
+    "credit\"",
+    "\"node\""
+  ],
+  "author": "stanslous yegon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanozzy/quickCreditAPI/issues"
+  },
+  "homepage": "https://github.com/stanozzy/quickCreditAPI#readme",
+  "devDependencies": {
+    "babel-preset-airbnb": "^3.2.1",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "nodemon": "^1.19.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
